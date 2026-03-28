@@ -1,84 +1,59 @@
-🖤 TERMINAL://ACE_DEV
+TERMINAL://ACE_DEV
 
-$ sudo access_profile --user ace_dev
-[sudo] password: ********
-Access granted...
-Initializing interface...
+$ init --profile ace_dev --mode secure
+Establishing secure connection...
+[████████████████████] 100%
+Access granted.
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=00FF41&center=true&vCenter=true&lines=Booting+System...;Python+Script+Engineer;Bash+Automation+Runner;Welcome+to+my+terminal..." /></div>---
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=00FF41&center=true&vCenter=true&lines=System+Online;Python+Automation+Engineer;Bash+Scripting+Specialist;Operational+Status:+Active" /></div>---
 
-🧠 SYSTEM INFO
+SYSTEM PROFILE
 
 $ whoami
 ace_dev
 
-$ cat skills.txt
-- Python scripting
-- Bash automation
-- CLI tools
-- Linux environment
+$ id
+uid=1000(ace_dev) gid=1000(dev) groups=automation, scripting, linux
 
-$ uptime
-Online. Learning. Building.
+$ cat expertise.log
+- Python development (automation / scripting)
+- Bash scripting & task orchestration
+- Command-line tool development
+- Linux-based environments
 
----
-
-⚙️ TOOLCHAIN
-
-$ load_modules.sh
-[████████████████████] 100%
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode" />
-</p>---
-
-🧪 ACTIVE PROCESSES
-
-$ ps aux | grep ace_dev
-
-> writing_python_scripts      RUNNING
-> building_cli_tools          RUNNING
-> automating_tasks_bash       RUNNING
-> learning_new_exploits       RUNNING
+$ status
+Active | Building | Continuous Improvement
 
 ---
 
-📂 DIRECTORY: PROJECTS
+EXECUTION LOG
 
-$ ls -la projects/
+$ run directives.sh
 
-drwxr-xr-x python-tools/
-drwxr-xr-x bash-scripts/
-drwxr-xr-x terminal-ui/
--rw-r--r-- experimental.py
-
----
-
-📊 SYSTEM METRICS
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=vision-friendly-dark&hide_border=true" />
-</div>---
-
-🔐 ROOT ACCESS LOG
-
-$ tail access.log
-[✓] Connected to GitHub
-[✓] Repositories synced
-[✓] System stable
-[!] Curiosity level: HIGH
+[INFO] Writing efficient Python scripts
+[INFO] Developing CLI-based utilities
+[INFO] Automating workflows via Bash
+[INFO] Expanding system-level knowledge
 
 ---
 
-🧬 FINAL EXECUTION
+TERMINAL OUTPUT
 
-$ echo "Stay hidden. Keep building."
-$ echo "Automate everything."
-$ echo "Power = Code"
+$ echo $PHILOSOPHY
 
-<div align="center">+ INITIATE: HACKER MODE
-+ STATUS: ACTIVE
-+ USER: ACE_DEV
+Code is precision.
+Automation is leverage.
+Consistency defines mastery.
+
+---
+
+SESSION END
+
+$ exit
+Session terminated.
+
+<div align="center">+ MODE: OPERATIONAL
++ ACCESS LEVEL: AUTHORIZED
++ TERMINAL STATE: STABLE
 
 </div>
